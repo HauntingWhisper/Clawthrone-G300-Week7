@@ -1,2 +1,2 @@
 # Clawthorne-G300-Week7
- 
+ I didn't get to finish the ending as I ran out of time but I was able to get all three enemies in here, the roaming, waypoint and sound. I used w so the sound based enemy would hear when I walked forword. Still dont know why/forgot why my enemys won'tdie and just lose health despite having a destroy actor. Oerall I made the two areas, attached health to enemys, and while I didn't add a sound to something getting hit (I didnt have time to get the gun) but I did add a sound when the enemy spots you, and two chase you on sight but the other doesnt see. 
